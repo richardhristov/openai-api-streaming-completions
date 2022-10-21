@@ -1,6 +1,6 @@
 # openai-api-streaming-completions
 
-This package provides streamable completions from the OpenAI API. Requires a native fetch implementation like what's available in the browser or in node starting with version 17.5.
+This package provides streamable completions from the OpenAI API.
 
 ```
 import { streamCompletions } from "openai-api-streaming-completions";
