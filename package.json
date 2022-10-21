@@ -1,0 +1,29 @@
+{
+	"name": "openai-api-streaming-completions",
+	"version": "1.0.0",
+	"description": "Streaming completions from OpenAI API",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"keywords": [
+		"openai",
+		"gpt-3",
+		"gpt3",
+		"openaiapi",
+		"open",
+		"ai",
+		"node",
+		"streaming"
+	],
+	"author": "Richard Hristov",
+	"type": "module",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/richardhristov/openai-api-streaming-completions"
+	},
+	"devDependencies": {
+		"typescript": "^4.8.4"
+	}
+}
